@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "io.github.voidqubit.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AmbientEffectsTickInject",
+    "FallingLeavesTickInject",
+    "PlayerFlashlight"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

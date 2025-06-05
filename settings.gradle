@@ -1,0 +1,14 @@
+pluginManagement {
+	repositories {
+		maven {
+			name = 'Fabric'
+			url = 'https://maven.fabricmc.net/'
+		}
+		maven {
+			name = 'BlameJared Maven (CrT / Bookshelf)'
+			url = 'https://maven.blamejared.com'
+		}
+		mavenCentral()
+		gradlePluginPortal()
+	}
+}

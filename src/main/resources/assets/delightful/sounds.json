@@ -1,0 +1,8 @@
+{
+  "flashlight_toggle": {
+    "subtitle": "sound.delightful.flashlight_toggle",
+    "sounds": [
+      "delightful:flashlight_toggle"
+    ]
+  }
+}
